@@ -1,0 +1,9 @@
+1) check version  git --version
+2)create directory mkdir dir-name
+3)initialize dir using init (path you will get)
+4)check status git status
+5) git add file name
+6)git commit -m "msg"
+7) to add remote machine
+  git remote add origin 
+8)
